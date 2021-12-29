@@ -43,7 +43,7 @@
 
 ## About The Project
 
-![picture-5](https://user-images.githubusercontent.com/80888228/113479944-646d3b80-94af-11eb-99cd-2ad0a3257176.PNG)
+![picture-5](https://github.com/Tejas-Adhikari/MusicPlayer-Bajaao-/blob/main/Git%20images/WhatsApp%20Image%202021-12-29%20at%208.24.54%20PM.jpeg?raw=true)
 
 Music Player is an android application through which user can listen locally stored songs and shuffle. The system will have modules, namely:
 
@@ -83,16 +83,16 @@ For more instructions on Installing the above, This ['Youtube-video'](https://ww
 
 1. On GitHub, navigate to the main page of the repository. Above the list of files, click Code. Clone or Download the zip file of the entire project.
 2. Extract the zip file and Open it in Android studio
-3. Run using AVD Manager in Android Studio or Build APK to run the application in android studio.(If you're facing any difficulties to get the .apk file, you can download the apk from the above ['application apk'](https://github.com/Tejas-Adhikari/Text-Recognition/tree/main/application%20apk) folder)
+3. Run using AVD Manager in Android Studio or Build APK to run the application in android studio.(If you're facing any difficulties to get the .apk file, you can download the apk from the above ['application apk'](https://github.com/Tejas-Adhikari/MusicPlayer-Bajaao-) folder)
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
 <h3 align="center">1. Songs list</h3>
-    <p align="center"><img src="https://user-images.githubusercontent.com/80888228/113479954-6df6a380-94af-11eb-9500-83061b98b9b7.png" width="400" height="600" align="center">    <br /><br /></p>
+    <p align="center"><img src="https://github.com/Tejas-Adhikari/MusicPlayer-Bajaao-/blob/main/Git%20images/WhatsApp%20Image%202021-12-29%20at%208.24.54%20PM.jpeg?raw=true" width="400" height="600" align="center">    <br /><br /></p>
 <h3 align="center">2. Media Player page</h3>
-     <p align="center"><img src="https://user-images.githubusercontent.com/80888228/113479955-6e8f3a00-94af-11eb-991f-963914b1006f.png" width="400" height="600">    <br /><br /></h3>
+     <p align="center"><img src="https://github.com/Tejas-Adhikari/MusicPlayer-Bajaao-/blob/main/Git%20images/WhatsApp%20Image%202021-12-29%20at%208.25.06%20PM.jpeg?raw=true" width="400" height="600">    <br /><br /></h3>
 
 <!-- CONTACT -->
 ## Contact
