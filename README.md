@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
+
 
   <h3 align="center">Music Player</h3>
 
@@ -43,7 +43,8 @@
 
 ## About The Project
 
-![picture-5](https://github.com/Tejas-Adhikari/MusicPlayer-Bajaao-/blob/main/Git%20images/WhatsApp%20Image%202021-12-29%20at%208.24.54%20PM.jpeg?raw=true)
+<h3 align="center">2. Media Player page</h3>
+     <p align="center"><img src="https://github.com/Tejas-Adhikari/MusicPlayer-Bajaao-/blob/main/Git%20images/WhatsApp%20Image%202021-12-29%20at%208.24.54%20PM.jpeg?raw=true" width="400" height="600">    <br /><br /></p>
 
 Music Player is an android application through which user can listen locally stored songs and shuffle. The system will have modules, namely:
 
@@ -92,7 +93,7 @@ For more instructions on Installing the above, This ['Youtube-video'](https://ww
 <h3 align="center">1. Songs list</h3>
     <p align="center"><img src="https://github.com/Tejas-Adhikari/MusicPlayer-Bajaao-/blob/main/Git%20images/WhatsApp%20Image%202021-12-29%20at%208.24.54%20PM.jpeg?raw=true" width="400" height="600" align="center">    <br /><br /></p>
 <h3 align="center">2. Media Player page</h3>
-     <p align="center"><img src="https://github.com/Tejas-Adhikari/MusicPlayer-Bajaao-/blob/main/Git%20images/WhatsApp%20Image%202021-12-29%20at%208.25.06%20PM.jpeg?raw=true" width="400" height="600">    <br /><br /></h3>
+     <p align="center"><img src="https://github.com/Tejas-Adhikari/MusicPlayer-Bajaao-/blob/main/Git%20images/WhatsApp%20Image%202021-12-29%20at%208.25.06%20PM.jpeg?raw=true" width="400" height="600">    <br /><br /></p>
 
 <!-- CONTACT -->
 ## Contact
