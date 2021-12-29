@@ -1,4 +1,4 @@
-# MusicPlayer-Bajaao-
+# MusicPlayer-Bajaao
 
 <!-- PROJECT LOGO -->
 <br />
@@ -6,12 +6,12 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Text Recognition</h3>
+  <h3 align="center">Music Player</h3>
 
   <p align="center">
-    Text-Recognition is an android application which helps the user to extract text from images. :bowtie:
+    Music Player is an android application through which user can listen locally stored songs and shuffle. :bowtie:
     <br />
-    <a href="https://cloud.google.com/vision/docs/ocr#vision_text_detection-java"><strong>Explore the docs »</strong></a>
+    <a href="https://developer.android.com/reference/android/media/MediaPlayer?authuser=1"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -45,28 +45,20 @@
 
 ![picture-5](https://user-images.githubusercontent.com/80888228/113479944-646d3b80-94af-11eb-99cd-2ad0a3257176.PNG)
 
-Text Recognition Android App Project is a native android application. It can be used to extract text from the image. Select any image from gallery or capture the image via camera :camera: and extract the text from it. Additionally, the extracted text can also be used for TextToSpeech integration. This project can also be termed as OCR (Optimal character recognition). The system will have modules, namely:
+Music Player is an android application through which user can listen locally stored songs and shuffle. The system will have modules, namely:
 
-:point_right: Welcome page :\
-Welcome page with lottie json file animation
+:point_right: Songs list :\
+After accepting the required permission the application will display locally stored songs having .mp3 and .webm extensions
 
-:point_right: Text recognition home page :\
-Where the user will attempt to select any image from gallery or capture the image via camera.
+:point_right: Media Player page :\
+The media player page will play the selected song by user on which user can shuffle the song to play any random song.
 
-:point_right: Image preview :\
-In this section user will find the selected image preview on the screen.
 
-:point_right: Text recognized :\
-In this section user will get the extracted text or text recognized from the image selected.
-
-:point_right: TextToSpeech integration :\
-The user can also listen to the extracted text or text recognized from the image selected.
 
 ### Built With
 
 :red_circle: Android Studio (Core Java)\
 :red_circle: XML\
-:red_circle: Lottie Files (Json file)\
 
 <!-- GETTING STARTED -->
 
@@ -97,14 +89,11 @@ For more instructions on Installing the above, This ['Youtube-video'](https://ww
 
 ## Usage
 
-<h3 align="center">1. At first Add image</h3>
+<h3 align="center">1. Songs list</h3>
     <p align="center"><img src="https://user-images.githubusercontent.com/80888228/113479954-6df6a380-94af-11eb-9500-83061b98b9b7.png" width="400" height="600" align="center">    <br /><br /></p>
-<h3 align="center">2. Image captured through camera</h3>
-     <p align="center"><img src="https://user-images.githubusercontent.com/80888228/113479955-6e8f3a00-94af-11eb-991f-963914b1006f.png" width="400" height="600">    <br /><br /></p>
-<h3 align="center">3. Crop the image</h3>
-   <p align="center"><img src="https://user-images.githubusercontent.com/80888228/113479956-6f27d080-94af-11eb-99de-6d72f80374c2.png" width="400" height="600">    <br /><br /></p>
-<h3 align="center">4. Extracted text with speech integration and Image preview below.</h3>
-   <p align="center"><img src="https://user-images.githubusercontent.com/80888228/113479953-6d5e0d00-94af-11eb-8be0-3278d7bc7959.png" width="400" height="600">    <br /><br /></p>
+<h3 align="center">2. Media Player page</h3>
+     <p align="center"><img src="https://user-images.githubusercontent.com/80888228/113479955-6e8f3a00-94af-11eb-991f-963914b1006f.png" width="400" height="600">    <br /><br /></h3>
+
 <!-- CONTACT -->
 ## Contact
 
@@ -112,7 +101,7 @@ Name - Tejas Adhikari\
 Email - tejas.adhikari@somaiya.edu / adhikari.tejas3@gmail.com\
 LinkedIN Profile- [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project Link: [https://github.com/Tejas-Adhikari/Text-Recognition/](https://github.com/Tejas-Adhikari/Text-Recognition)
+Project Link: [https://github.com/Tejas-Adhikari/MusicPlayer-Bajaao-](https://github.com/Tejas-Adhikari/MusicPlayer-Bajaao-)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tejas-adhikari-4ba530168/
