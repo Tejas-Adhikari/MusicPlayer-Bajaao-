@@ -43,7 +43,8 @@
 
 ## About The Project
 
-     <img src="https://github.com/Tejas-Adhikari/MusicPlayer-Bajaao-/blob/main/Git%20images/WhatsApp%20Image%202021-12-29%20at%208.24.54%20PM.jpeg?raw=true" width="400" height="600">    <br /><br />
+     <p align="right"><img src="https://github.com/Tejas-Adhikari/MusicPlayer-Bajaao-/blob/main/Git%20images/WhatsApp%20Image%202021-12-29%20at%208.25.06%20PM.jpeg?raw=true" width="400" height="600">    <br /><br />   </p>
+     
 
 Music Player is an android application through which user can listen locally stored songs and shuffle. The system will have modules, namely:
 
